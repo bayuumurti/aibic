@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610957525578",
+    "project_id": "ibiapp-37fd7",
+    "storage_bucket": "ibiapp-37fd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610957525578:android:c61aa3bc8d564686b1dcb3",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP8OQ0gnVsmeTVpUAi509y8Yhy2K7o8wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
